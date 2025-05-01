@@ -1,0 +1,108 @@
+{
+  "success": true,
+  "evaluation": {
+    "1. White Space Utilization": {
+      "1.1 Page Margin Assessment": {
+        "score": 4,
+        "explanation": "Margins are adequate and contribute to a clean look."
+      },
+      "1.2 Element Spacing": {
+        "score": 5,
+        "explanation": "Elements are well-spaced, preventing a cluttered appearance."
+      }
+    },
+    "2. Balance Assessment": {
+      "2.1 Spatial Balance": {
+        "score": 5,
+        "explanation": "The layout is well-balanced, with elements distributed evenly."
+      },
+      "2.2 Size Hierarchy": {
+        "score": 4,
+        "explanation": "Sizes are appropriately scaled, with headings larger than body text."
+      },
+      "2.3 Typography Hierarchy": {
+        "score": 4,
+        "explanation": "Typography hierarchy is clear, guiding the viewer's eye."
+      }
+    },
+    "3. Alignment": {
+      "3.1 Element Alignment": {
+        "score": 5,
+        "explanation": "Elements are consistently aligned, creating a sense of order."
+      },
+      "3.2 Text Alignment": {
+        "score": 4,
+        "explanation": "Text is left-aligned, which is easy to read."
+      }
+    },
+    "4. Typography Effectiveness": {
+      "4.1 Font Choice Appropriateness": {
+        "score": 4,
+        "explanation": "The font choice is clean and readable, suitable for the advertisement."
+      },
+      "4.2 Text Formatting": {
+        "score": 4,
+        "explanation": "Text is well-formatted, with clear headings and concise descriptions."
+      }
+    },
+    "5. Color": {
+      "5.1 Color Scheme Cohesiveness": {
+        "score": 5,
+        "explanation": "The color scheme is cohesive and creates a calming atmosphere."
+      },
+      "5.2 Color Contrast": {
+        "score": 4,
+        "explanation": "Color contrast is adequate, ensuring readability."
+      },
+      "5.3 Color Application": {
+        "score": 4,
+        "explanation": "Colors are applied effectively, enhancing the visual appeal."
+      }
+    },
+    "6. Similarity & Consistency": {
+      "6.1 Consistency in Element Types": {
+        "score": 5,
+        "explanation": "Element types are consistent throughout the advertisement."
+      },
+      "6.2 Related Groups": {
+        "score": 4,
+        "explanation": "Related elements are grouped together logically."
+      }
+    },
+    "7. Information Flow & Emphasis": {
+      "7.1 Hierarchical Flow & Layout Logic": {
+        "score": 5,
+        "explanation": "The layout logic is clear, guiding the viewer's eye through the information."
+      },
+      "7.2 Emphasis Techniques": {
+        "score": 4,
+        "explanation": "Emphasis techniques are used effectively to highlight key elements."
+      }
+    },
+    "8. Brand Adherence": {
+      "8.1 Color Brand Alignment": {
+        "score": 4,
+        "explanation": "Colors align with a modern and clean brand aesthetic."
+      },
+      "8.2 Typography Brand Alignment": {
+        "score": 4,
+        "explanation": "Typography aligns with a clean and professional brand image."
+      },
+      "8.3 Visual Styling Brand Alignment": {
+        "score": 4,
+        "explanation": "Visual styling aligns with a modern and minimalist brand style."
+      }
+    },
+    "9. Holistic Design Impact": {
+      "9.1 Visual Cohesion & Appeal": {
+        "score": 5,
+        "explanation": "The design is visually cohesive and appealing, creating a positive impression."
+      },
+      "9.2 Communication Effectiveness": {
+        "score": 5,
+        "explanation": "The advertisement effectively communicates the sale's message."
+      }
+    }
+  },
+  "raw_response": "{\n  \"1. White Space Utilization\": {\n    \"1.1 Page Margin Assessment\": {\n      \"score\": 4,\n      \"explanation\": \"Margins are adequate and contribute to a clean look.\"\n    },\n    \"1.2 Element Spacing\": {\n      \"score\": 5,\n      \"explanation\": \"Elements are well-spaced, preventing a cluttered appearance.\"\n    }\n  },\n  \"2. Balance Assessment\": {\n    \"2.1 Spatial Balance\": {\n      \"score\": 5,\n      \"explanation\": \"The layout is well-balanced, with elements distributed evenly.\"\n    },\n    \"2.2 Size Hierarchy\": {\n      \"score\": 4,\n      \"explanation\": \"Sizes are appropriately scaled, with headings larger than body text.\"\n    },\n    \"2.3 Typography Hierarchy\": {\n      \"score\": 4,\n      \"explanation\": \"Typography hierarchy is clear, guiding the viewer's eye.\"\n    }\n  },\n  \"3. Alignment\": {\n    \"3.1 Element Alignment\": {\n      \"score\": 5,\n      \"explanation\": \"Elements are consistently aligned, creating a sense of order.\"\n    },\n    \"3.2 Text Alignment\": {\n      \"score\": 4,\n      \"explanation\": \"Text is left-aligned, which is easy to read.\"\n    }\n  },\n  \"4. Typography Effectiveness\": {\n    \"4.1 Font Choice Appropriateness\": {\n      \"score\": 4,\n      \"explanation\": \"The font choice is clean and readable, suitable for the advertisement.\"\n    },\n    \"4.2 Text Formatting\": {\n      \"score\": 4,\n      \"explanation\": \"Text is well-formatted, with clear headings and concise descriptions.\"\n    }\n  },\n  \"5. Color\": {\n    \"5.1 Color Scheme Cohesiveness\": {\n      \"score\": 5,\n      \"explanation\": \"The color scheme is cohesive and creates a calming atmosphere.\"\n    },\n    \"5.2 Color Contrast\": {\n      \"score\": 4,\n      \"explanation\": \"Color contrast is adequate, ensuring readability.\"\n    },\n    \"5.3 Color Application\": {\n      \"score\": 4,\n      \"explanation\": \"Colors are applied effectively, enhancing the visual appeal.\"\n    }\n  },\n  \"6. Similarity & Consistency\": {\n    \"6.1 Consistency in Element Types\": {\n      \"score\": 5,\n      \"explanation\": \"Element types are consistent throughout the advertisement.\"\n    },\n    \"6.2 Related Groups\": {\n      \"score\": 4,\n      \"explanation\": \"Related elements are grouped together logically.\"\n    }\n  },\n  \"7. Information Flow & Emphasis\": {\n    \"7.1 Hierarchical Flow & Layout Logic\": {\n      \"score\": 5,\n      \"explanation\": \"The layout logic is clear, guiding the viewer's eye through the information.\"\n    },\n    \"7.2 Emphasis Techniques\": {\n      \"score\": 4,\n      \"explanation\": \"Emphasis techniques are used effectively to highlight key elements.\"\n    }\n  },\n  \"8. Brand Adherence\": {\n    \"8.1 Color Brand Alignment\": {\n      \"score\": 4,\n      \"explanation\": \"Colors align with a modern and clean brand aesthetic.\"\n    },\n    \"8.2 Typography Brand Alignment\": {\n      \"score\": 4,\n      \"explanation\": \"Typography aligns with a clean and professional brand image.\"\n    },\n    \"8.3 Visual Styling Brand Alignment\": {\n      \"score\": 4,\n      \"explanation\": \"Visual styling aligns with a modern and minimalist brand style.\"\n    }\n  },\n  \"9. Holistic Design Impact\": {\n    \"9.1 Visual Cohesion & Appeal\": {\n      \"score\": 5,\n      \"explanation\": \"The design is visually cohesive and appealing, creating a positive impression.\"\n    },\n    \"9.2 Communication Effectiveness\": {\n      \"score\": 5,\n      \"explanation\": \"The advertisement effectively communicates the sale's message.\"\n    }\n  }\n}"
+}

@@ -1,0 +1,108 @@
+{
+  "success": true,
+  "evaluation": {
+    "1. White Space Utilization": {
+      "1.1 Page Margin Assessment": {
+        "score": 4,
+        "explanation": "The design has good white space, but could be improved."
+      },
+      "1.2 Element Spacing": {
+        "score": 4,
+        "explanation": "The elements are well-spaced, but could be more precise."
+      }
+    },
+    "2. Balance Assessment": {
+      "2.1 Spatial Balance": {
+        "score": 3,
+        "explanation": "The design is balanced, but could be more symmetrical."
+      },
+      "2.2 Size Hierarchy": {
+        "score": 3,
+        "explanation": "The size hierarchy is clear, but could be more stylized."
+      },
+      "2.3 Typography Hierarchy": {
+        "score": 3,
+        "explanation": "The typography hierarchy is clear, but could be more stylized."
+      }
+    },
+    "3. Alignment": {
+      "3.1 Element Alignment": {
+        "score": 4,
+        "explanation": "The elements are well-aligned, but could be more precise."
+      },
+      "3.2 Text Alignment": {
+        "score": 4,
+        "explanation": "The text is well-aligned, but could be more precise."
+      }
+    },
+    "4. Typography Effectiveness": {
+      "4.1 Font Choice Appropriateness": {
+        "score": 3,
+        "explanation": "The font choice is appropriate, but could be more stylized."
+      },
+      "4.2 Text Formatting": {
+        "score": 3,
+        "explanation": "The text formatting is clear, but could be more stylized."
+      }
+    },
+    "5. Color": {
+      "5.1 Color Scheme Cohesiveness": {
+        "score": 4,
+        "explanation": "The color scheme is festive, but could be more varied."
+      },
+      "5.2 Color Contrast": {
+        "score": 4,
+        "explanation": "The color contrast is good, but could be more varied."
+      },
+      "5.3 Color Application": {
+        "score": 4,
+        "explanation": "The color application is good, but could be more varied."
+      }
+    },
+    "6. Similarity & Consistency": {
+      "6.1 Consistency in Element Types": {
+        "score": 3,
+        "explanation": "The design is consistent, but could be more similar in style."
+      },
+      "6.2 Related Groups": {
+        "score": 3,
+        "explanation": "The related groups are consistent, but could be more similar in style."
+      }
+    },
+    "7. Information Flow & Emphasis": {
+      "7.1 Hierarchical Flow & Layout Logic": {
+        "score": 4,
+        "explanation": "The design is easy to follow, but could be more engaging."
+      },
+      "7.2 Emphasis Techniques": {
+        "score": 4,
+        "explanation": "The emphasis techniques are good, but could be more engaging."
+      }
+    },
+    "8. Brand Adherence": {
+      "8.1 Color Brand Alignment": {
+        "score": 3,
+        "explanation": "The design adheres to the Mardi Gras brand, but could be more cohesive."
+      },
+      "8.2 Typography Brand Alignment": {
+        "score": 3,
+        "explanation": "The design adheres to the Mardi Gras brand, but could be more cohesive."
+      },
+      "8.3 Visual Styling Brand Alignment": {
+        "score": 3,
+        "explanation": "The design adheres to the Mardi Gras brand, but could be more cohesive."
+      }
+    },
+    "9. Holistic Design Impact": {
+      "9.1 Visual Cohesion & Appeal": {
+        "score": 4,
+        "explanation": "The design is visually appealing, but could be more impactful."
+      },
+      "9.2 Communication Effectiveness": {
+        "score": 4,
+        "explanation": "The design is easy to follow, but could be more engaging."
+      }
+    }
+  },
+  "raw_response": "{\n  \"1. White Space Utilization\": {\n    \"1.1 Page Margin Assessment\": {\n      \"score\": 4,\n      \"explanation\": \"The design has good white space, but could be improved.\"\n    },\n    \"1.2 Element Spacing\": {\n      \"score\": 4,\n      \"explanation\": \"The elements are well-spaced, but could be more precise.\"\n    }\n  },\n  \"2. Balance Assessment\": {\n    \"2.1 Spatial Balance\": {\n      \"score\": 3,\n      \"explanation\": \"The design is balanced, but could be more symmetrical.\"\n    },\n    \"2.2 Size Hierarchy\": {\n      \"score\": 3,\n      \"explanation\": \"The size hierarchy is clear, but could be more stylized.\"\n    },\n    \"2.3 Typography Hierarchy\": {\n      \"score\": 3,\n      \"explanation\": \"The typography hierarchy is clear, but could be more stylized.\"\n    }\n  },\n  \"3. Alignment\": {\n    \"3.1 Element Alignment\": {\n      \"score\": 4,\n      \"explanation\": \"The elements are well-aligned, but could be more precise.\"\n    },\n    \"3.2 Text Alignment\": {\n      \"score\": 4,\n      \"explanation\": \"The text is well-aligned, but could be more precise.\"\n    }\n  },\n  \"4. Typography Effectiveness\": {\n    \"4.1 Font Choice Appropriateness\": {\n      \"score\": 3,\n      \"explanation\": \"The font choice is appropriate, but could be more stylized.\"\n    },\n    \"4.2 Text Formatting\": {\n      \"score\": 3,\n      \"explanation\": \"The text formatting is clear, but could be more stylized.\"\n    }\n  },\n  \"5. Color\": {\n    \"5.1 Color Scheme Cohesiveness\": {\n      \"score\": 4,\n      \"explanation\": \"The color scheme is festive, but could be more varied.\"\n    },\n    \"5.2 Color Contrast\": {\n      \"score\": 4,\n      \"explanation\": \"The color contrast is good, but could be more varied.\"\n    },\n    \"5.3 Color Application\": {\n      \"score\": 4,\n      \"explanation\": \"The color application is good, but could be more varied.\"\n    }\n  },\n  \"6. Similarity & Consistency\": {\n    \"6.1 Consistency in Element Types\": {\n      \"score\": 3,\n      \"explanation\": \"The design is consistent, but could be more similar in style.\"\n    },\n    \"6.2 Related Groups\": {\n      \"score\": 3,\n      \"explanation\": \"The related groups are consistent, but could be more similar in style.\"\n    }\n  },\n  \"7. Information Flow & Emphasis\": {\n    \"7.1 Hierarchical Flow & Layout Logic\": {\n      \"score\": 4,\n      \"explanation\": \"The design is easy to follow, but could be more engaging.\"\n    },\n    \"7.2 Emphasis Techniques\": {\n      \"score\": 4,\n      \"explanation\": \"The emphasis techniques are good, but could be more engaging.\"\n    }\n  },\n  \"8. Brand Adherence\": {\n    \"8.1 Color Brand Alignment\": {\n      \"score\": 3,\n      \"explanation\": \"The design adheres to the Mardi Gras brand, but could be more cohesive.\"\n    },\n    \"8.2 Typography Brand Alignment\": {\n      \"score\": 3,\n      \"explanation\": \"The design adheres to the Mardi Gras brand, but could be more cohesive.\"\n    },\n    \"8.3 Visual Styling Brand Alignment\": {\n      \"score\": 3,\n      \"explanation\": \"The design adheres to the Mardi Gras brand, but could be more cohesive.\"\n    }\n  },\n  \"9. Holistic Design Impact\": {\n    \"9.1 Visual Cohesion & Appeal\": {\n      \"score\": 4,\n      \"explanation\": \"The design is visually appealing, but could be more impactful.\"\n    },\n    \"9.2 Communication Effectiveness\": {\n      \"score\": 4,\n      \"explanation\": \"The design is easy to follow, but could be more engaging.\"\n    }\n  }\n}"
+}

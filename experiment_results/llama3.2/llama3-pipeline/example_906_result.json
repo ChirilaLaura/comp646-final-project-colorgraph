@@ -1,0 +1,108 @@
+{
+  "success": true,
+  "evaluation": {
+    "1. White Space Utilization": {
+      "1.1 Page Margin Assessment": {
+        "score": 4,
+        "explanation": "Page Margin Assessment: 4"
+      },
+      "1.2 Element Spacing": {
+        "score": 3,
+        "explanation": "Element Spacing: 3"
+      }
+    },
+    "2. Balance Assessment": {
+      "2.1 Spatial Balance": {
+        "score": 4,
+        "explanation": "Spatial Balance: 4"
+      },
+      "2.2 Size Hierarchy": {
+        "score": 4,
+        "explanation": "Size Hierarchy: 4"
+      },
+      "2.3 Typography Hierarchy": {
+        "score": 3,
+        "explanation": "Typography Hierarchy: 3"
+      }
+    },
+    "3. Alignment": {
+      "3.1 Element Alignment": {
+        "score": 4,
+        "explanation": "Element Alignment: 4"
+      },
+      "3.2 Text Alignment": {
+        "score": 4,
+        "explanation": "Text Alignment: 4"
+      }
+    },
+    "4. Typography Effectiveness": {
+      "4.1 Font Choice Appropriateness": {
+        "score": 4,
+        "explanation": "Font Choice Appropriateness: 4"
+      },
+      "4.2 Text Formatting": {
+        "score": 4,
+        "explanation": "Text Formatting: 4"
+      }
+    },
+    "5. Color": {
+      "5.1 Color Scheme Cohesiveness": {
+        "score": 4,
+        "explanation": "Color Scheme Cohesiveness: 4"
+      },
+      "5.2 Color Contrast": {
+        "score": 4,
+        "explanation": "Color Contrast: 4"
+      },
+      "5.3 Color Application": {
+        "score": 3,
+        "explanation": "Color Application: 3"
+      }
+    },
+    "6. Similarity & Consistency": {
+      "6.1 Consistency in Element Types": {
+        "score": 4,
+        "explanation": "Consistency in Element Types: 4"
+      },
+      "6.2 Related Groups": {
+        "score": 4,
+        "explanation": "Related Groups: 4"
+      }
+    },
+    "7. Information Flow & Emphasis": {
+      "7.1 Hierarchical Flow & Layout Logic": {
+        "score": 4,
+        "explanation": "Hierarchical Flow & Layout Logic: 4"
+      },
+      "7.2 Emphasis Techniques": {
+        "score": 4,
+        "explanation": "Emphasis Techniques: 4"
+      }
+    },
+    "8. Brand Adherence": {
+      "8.1 Color Brand Alignment": {
+        "score": 4,
+        "explanation": "Color Brand Alignment: 4"
+      },
+      "8.2 Typography Brand Alignment": {
+        "score": 4,
+        "explanation": "Typography Brand Alignment: 4"
+      },
+      "8.3 Visual Styling Brand Alignment": {
+        "score": 4,
+        "explanation": "Visual Styling Brand Alignment: 4"
+      }
+    },
+    "9. Holistic Design Impact": {
+      "9.1 Visual Cohesion & Appeal": {
+        "score": 4,
+        "explanation": "Visual Cohesion & Appeal: 4"
+      },
+      "9.2 Communication Effectiveness": {
+        "score": 4,
+        "explanation": "Communication Effectiveness: 4"
+      }
+    }
+  },
+  "raw_response": "{\n  \"1. White Space Utilization\": {\n    \"1.1 Page Margin Assessment\": {\n      \"score\": 4,\n      \"explanation\": \"Page Margin Assessment: 4\"\n    },\n    \"1.2 Element Spacing\": {\n      \"score\": 3,\n      \"explanation\": \"Element Spacing: 3\"\n    }\n  },\n  \"2. Balance Assessment\": {\n    \"2.1 Spatial Balance\": {\n      \"score\": 4,\n      \"explanation\": \"Spatial Balance: 4\"\n    },\n    \"2.2 Size Hierarchy\": {\n      \"score\": 4,\n      \"explanation\": \"Size Hierarchy: 4\"\n    },\n    \"2.3 Typography Hierarchy\": {\n      \"score\": 3,\n      \"explanation\": \"Typography Hierarchy: 3\"\n    }\n  },\n  \"3. Alignment\": {\n    \"3.1 Element Alignment\": {\n      \"score\": 4,\n      \"explanation\": \"Element Alignment: 4\"\n    },\n    \"3.2 Text Alignment\": {\n      \"score\": 4,\n      \"explanation\": \"Text Alignment: 4\"\n    }\n  },\n  \"4. Typography Effectiveness\": {\n    \"4.1 Font Choice Appropriateness\": {\n      \"score\": 4,\n      \"explanation\": \"Font Choice Appropriateness: 4\"\n    },\n    \"4.2 Text Formatting\": {\n      \"score\": 4,\n      \"explanation\": \"Text Formatting: 4\"\n    }\n  },\n  \"5. Color\": {\n    \"5.1 Color Scheme Cohesiveness\": {\n      \"score\": 4,\n      \"explanation\": \"Color Scheme Cohesiveness: 4\"\n    },\n    \"5.2 Color Contrast\": {\n      \"score\": 4,\n      \"explanation\": \"Color Contrast: 4\"\n    },\n    \"5.3 Color Application\": {\n      \"score\": 3,\n      \"explanation\": \"Color Application: 3\"\n    }\n  },\n  \"6. Similarity & Consistency\": {\n    \"6.1 Consistency in Element Types\": {\n      \"score\": 4,\n      \"explanation\": \"Consistency in Element Types: 4\"\n    },\n    \"6.2 Related Groups\": {\n      \"score\": 4,\n      \"explanation\": \"Related Groups: 4\"\n    }\n  },\n  \"7. Information Flow & Emphasis\": {\n    \"7.1 Hierarchical Flow & Layout Logic\": {\n      \"score\": 4,\n      \"explanation\": \"Hierarchical Flow & Layout Logic: 4\"\n    },\n    \"7.2 Emphasis Techniques\": {\n      \"score\": 4,\n      \"explanation\": \"Emphasis Techniques: 4\"\n    }\n  },\n  \"8. Brand Adherence\": {\n    \"8.1 Color Brand Alignment\": {\n      \"score\": 4,\n      \"explanation\": \"Color Brand Alignment: 4\"\n    },\n    \"8.2 Typography Brand Alignment\": {\n      \"score\": 4,\n      \"explanation\": \"Typography Brand Alignment: 4\"\n    },\n    \"8.3 Visual Styling Brand Alignment\": {\n      \"score\": 4,\n      \"explanation\": \"Visual Styling Brand Alignment: 4\"\n    }\n  },\n  \"9. Holistic Design Impact\": {\n    \"9.1 Visual Cohesion & Appeal\": {\n      \"score\": 4,\n      \"explanation\": \"Visual Cohesion & Appeal: 4\"\n    },\n    \"9.2 Communication Effectiveness\": {\n      \"score\": 4,\n      \"explanation\": \"Communication Effectiveness: 4\"\n    }\n  }\n}"
+}

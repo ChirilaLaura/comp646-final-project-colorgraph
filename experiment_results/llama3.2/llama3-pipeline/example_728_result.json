@@ -1,0 +1,108 @@
+{
+  "success": true,
+  "evaluation": {
+    "1. White Space Utilization": {
+      "1.1 Page Margin Assessment": {
+        "score": 5,
+        "explanation": "The image has a clear and consistent margin around the content, with no elements touching the edges."
+      },
+      "1.2 Element Spacing": {
+        "score": 5,
+        "explanation": "The elements are well-spaced, with a clear hierarchy and no crowding."
+      }
+    },
+    "2. Balance Assessment": {
+      "2.1 Spatial Balance": {
+        "score": 5,
+        "explanation": "The content is well-balanced, with a clear center of visual mass and no dominant regions."
+      },
+      "2.2 Size Hierarchy": {
+        "score": 5,
+        "explanation": "The elements are sized consistently, with a clear hierarchy and no conflicting priorities."
+      },
+      "2.3 Typography Hierarchy": {
+        "score": 5,
+        "explanation": "The typography is well-structured, with a clear hierarchy and no confusing or unclear priority."
+      }
+    },
+    "3. Alignment": {
+      "3.1 Element Alignment": {
+        "score": 5,
+        "explanation": "The elements are aligned consistently, with a clear grid and no misalignments."
+      },
+      "3.2 Text Alignment": {
+        "score": 5,
+        "explanation": "The text is aligned consistently, with a clear justification and no confusing or unclear alignment."
+      }
+    },
+    "4. Typography Effectiveness": {
+      "4.1 Font Choice Appropriateness": {
+        "score": 5,
+        "explanation": "The font choices are appropriate for the content and tone, with a clear and readable font family."
+      },
+      "4.2 Text Formatting": {
+        "score": 5,
+        "explanation": "The text formatting is clear and readable, with a consistent line spacing and no confusing or unclear formatting."
+      }
+    },
+    "5. Color": {
+      "5.1 Color Scheme Cohesiveness": {
+        "score": 5,
+        "explanation": "The color scheme is cohesive and harmonious, with a clear and consistent palette."
+      },
+      "5.2 Color Contrast": {
+        "score": 5,
+        "explanation": "The color contrast is excellent, with a clear and readable text and no low contrast."
+      },
+      "5.3 Color Application": {
+        "score": 5,
+        "explanation": "The color application is effective, with a clear and consistent use of color to guide the viewer's focus."
+      }
+    },
+    "6. Similarity & Consistency": {
+      "6.1 Consistency in Element Types": {
+        "score": 5,
+        "explanation": "The elements are consistent in type, with a clear and consistent styling."
+      },
+      "6.2 Related Groups": {
+        "score": 5,
+        "explanation": "The related groups are cohesive, with a clear and consistent styling and no confusing or unclear connections."
+      }
+    },
+    "7. Information Flow & Emphasis": {
+      "7.1 Hierarchical Flow & Layout Logic": {
+        "score": 5,
+        "explanation": "The hierarchical flow and layout logic are clear and effective, with a clear and consistent structure and no confusing or unclear information flow."
+      },
+      "7.2 Emphasis Techniques": {
+        "score": 5,
+        "explanation": "The emphasis techniques are effective, with a clear and consistent use of color, size, and position to guide the viewer's focus."
+      }
+    },
+    "8. Brand Adherence": {
+      "8.1 Color Brand Alignment": {
+        "score": 5,
+        "explanation": "The color brand alignment is excellent, with a clear and consistent use of color to match the brand identity."
+      },
+      "8.2 Typography Brand Alignment": {
+        "score": 5,
+        "explanation": "The typography brand alignment is excellent, with a clear and consistent use of typography to match the brand identity."
+      },
+      "8.3 Visual Styling Brand Alignment": {
+        "score": 5,
+        "explanation": "The visual styling brand alignment is excellent, with a clear and consistent use of visual styling to match the brand identity."
+      }
+    },
+    "9. Holistic Design Impact": {
+      "9.1 Visual Cohesion & Appeal": {
+        "score": 5,
+        "explanation": "The visual cohesion and appeal are excellent, with a clear and consistent visual style and no confusing or unclear elements."
+      },
+      "9.2 Communication Effectiveness": {
+        "score": 5,
+        "explanation": "The communication effectiveness is excellent, with a clear and consistent message and no confusing or unclear information flow."
+      }
+    }
+  },
+  "raw_response": "{\n  \"1. White Space Utilization\": {\n    \"1.1 Page Margin Assessment\": {\n      \"score\": 5,\n      \"explanation\": \"The image has a clear and consistent margin around the content, with no elements touching the edges.\"\n    },\n    \"1.2 Element Spacing\": {\n      \"score\": 5,\n      \"explanation\": \"The elements are well-spaced, with a clear hierarchy and no crowding.\"\n    }\n  },\n  \"2. Balance Assessment\": {\n    \"2.1 Spatial Balance\": {\n      \"score\": 5,\n      \"explanation\": \"The content is well-balanced, with a clear center of visual mass and no dominant regions.\"\n    },\n    \"2.2 Size Hierarchy\": {\n      \"score\": 5,\n      \"explanation\": \"The elements are sized consistently, with a clear hierarchy and no conflicting priorities.\"\n    },\n    \"2.3 Typography Hierarchy\": {\n      \"score\": 5,\n      \"explanation\": \"The typography is well-structured, with a clear hierarchy and no confusing or unclear priority.\"\n    }\n  },\n  \"3. Alignment\": {\n    \"3.1 Element Alignment\": {\n      \"score\": 5,\n      \"explanation\": \"The elements are aligned consistently, with a clear grid and no misalignments.\"\n    },\n    \"3.2 Text Alignment\": {\n      \"score\": 5,\n      \"explanation\": \"The text is aligned consistently, with a clear justification and no confusing or unclear alignment.\"\n    }\n  },\n  \"4. Typography Effectiveness\": {\n    \"4.1 Font Choice Appropriateness\": {\n      \"score\": 5,\n      \"explanation\": \"The font choices are appropriate for the content and tone, with a clear and readable font family.\"\n    },\n    \"4.2 Text Formatting\": {\n      \"score\": 5,\n      \"explanation\": \"The text formatting is clear and readable, with a consistent line spacing and no confusing or unclear formatting.\"\n    }\n  },\n  \"5. Color\": {\n    \"5.1 Color Scheme Cohesiveness\": {\n      \"score\": 5,\n      \"explanation\": \"The color scheme is cohesive and harmonious, with a clear and consistent palette.\"\n    },\n    \"5.2 Color Contrast\": {\n      \"score\": 5,\n      \"explanation\": \"The color contrast is excellent, with a clear and readable text and no low contrast.\"\n    },\n    \"5.3 Color Application\": {\n      \"score\": 5,\n      \"explanation\": \"The color application is effective, with a clear and consistent use of color to guide the viewer's focus.\"\n    }\n  },\n  \"6. Similarity & Consistency\": {\n    \"6.1 Consistency in Element Types\": {\n      \"score\": 5,\n      \"explanation\": \"The elements are consistent in type, with a clear and consistent styling.\"\n    },\n    \"6.2 Related Groups\": {\n      \"score\": 5,\n      \"explanation\": \"The related groups are cohesive, with a clear and consistent styling and no confusing or unclear connections.\"\n    }\n  },\n  \"7. Information Flow & Emphasis\": {\n    \"7.1 Hierarchical Flow & Layout Logic\": {\n      \"score\": 5,\n      \"explanation\": \"The hierarchical flow and layout logic are clear and effective, with a clear and consistent structure and no confusing or unclear information flow.\"\n    },\n    \"7.2 Emphasis Techniques\": {\n      \"score\": 5,\n      \"explanation\": \"The emphasis techniques are effective, with a clear and consistent use of color, size, and position to guide the viewer's focus.\"\n    }\n  },\n  \"8. Brand Adherence\": {\n    \"8.1 Color Brand Alignment\": {\n      \"score\": 5,\n      \"explanation\": \"The color brand alignment is excellent, with a clear and consistent use of color to match the brand identity.\"\n    },\n    \"8.2 Typography Brand Alignment\": {\n      \"score\": 5,\n      \"explanation\": \"The typography brand alignment is excellent, with a clear and consistent use of typography to match the brand identity.\"\n    },\n    \"8.3 Visual Styling Brand Alignment\": {\n      \"score\": 5,\n      \"explanation\": \"The visual styling brand alignment is excellent, with a clear and consistent use of visual styling to match the brand identity.\"\n    }\n  },\n  \"9. Holistic Design Impact\": {\n    \"9.1 Visual Cohesion & Appeal\": {\n      \"score\": 5,\n      \"explanation\": \"The visual cohesion and appeal are excellent, with a clear and consistent visual style and no confusing or unclear elements.\"\n    },\n    \"9.2 Communication Effectiveness\": {\n      \"score\": 5,\n      \"explanation\": \"The communication effectiveness is excellent, with a clear and consistent message and no confusing or unclear information flow.\"\n    }\n  }\n}"
+}

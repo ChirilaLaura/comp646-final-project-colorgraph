@@ -1,0 +1,108 @@
+{
+  "success": true,
+  "evaluation": {
+    "1. White Space Utilization": {
+      "1.1 Page Margin Assessment": {
+        "score": 4,
+        "explanation": "Margins are adequate and contribute to a balanced composition."
+      },
+      "1.2 Element Spacing": {
+        "score": 5,
+        "explanation": "Elements are well-spaced, preventing overcrowding and enhancing readability."
+      }
+    },
+    "2. Balance Assessment": {
+      "2.1 Spatial Balance": {
+        "score": 5,
+        "explanation": "The composition exhibits excellent spatial balance, with elements distributed harmoniously."
+      },
+      "2.2 Size Hierarchy": {
+        "score": 5,
+        "explanation": "The size hierarchy is effectively implemented, guiding the viewer's eye and emphasizing key elements."
+      },
+      "2.3 Typography Hierarchy": {
+        "score": 5,
+        "explanation": "The typography hierarchy is well-defined, with different font sizes and styles used to create visual interest and emphasize key messages."
+      }
+    },
+    "3. Alignment": {
+      "3.1 Element Alignment": {
+        "score": 4,
+        "explanation": "Elements are generally well-aligned, contributing to a sense of order and visual harmony."
+      },
+      "3.2 Text Alignment": {
+        "score": 4,
+        "explanation": "Text is aligned consistently, enhancing readability and visual appeal."
+      }
+    },
+    "4. Typography Effectiveness": {
+      "4.1 Font Choice Appropriateness": {
+        "score": 5,
+        "explanation": "The font choice is appropriate for the brand and effectively communicates the intended message."
+      },
+      "4.2 Text Formatting": {
+        "score": 5,
+        "explanation": "Text is formatted effectively, enhancing readability and visual appeal."
+      }
+    },
+    "5. Color": {
+      "5.1 Color Scheme Cohesiveness": {
+        "score": 5,
+        "explanation": "The color scheme is cohesive and contributes to a sense of luxury and sophistication."
+      },
+      "5.2 Color Contrast": {
+        "score": 5,
+        "explanation": "The color contrast is effective, ensuring that key elements are easily visible."
+      },
+      "5.3 Color Application": {
+        "score": 5,
+        "explanation": "The colors are applied effectively, enhancing the overall visual appeal of the image."
+      }
+    },
+    "6. Similarity & Consistency": {
+      "6.1 Consistency in Element Types": {
+        "score": 5,
+        "explanation": "There is a high degree of consistency in element types, contributing to a sense of visual harmony."
+      },
+      "6.2 Related Groups": {
+        "score": 5,
+        "explanation": "Related groups of elements are visually connected, enhancing the overall communication of the image."
+      }
+    },
+    "7. Information Flow & Emphasis": {
+      "7.1 Hierarchical Flow & Layout Logic": {
+        "score": 5,
+        "explanation": "The layout logic is well-defined, guiding the viewer's eye and emphasizing key messages."
+      },
+      "7.2 Emphasis Techniques": {
+        "score": 5,
+        "explanation": "Emphasis techniques are used effectively to draw attention to key elements."
+      }
+    },
+    "8. Brand Adherence": {
+      "8.1 Color Brand Alignment": {
+        "score": 5,
+        "explanation": "The colors are aligned with the brand identity, reinforcing brand recognition."
+      },
+      "8.2 Typography Brand Alignment": {
+        "score": 5,
+        "explanation": "The typography is aligned with the brand identity, reinforcing brand recognition."
+      },
+      "8.3 Visual Styling Brand Alignment": {
+        "score": 5,
+        "explanation": "The visual styling is aligned with the brand identity, reinforcing brand recognition."
+      }
+    },
+    "9. Holistic Design Impact": {
+      "9.1 Visual Cohesion & Appeal": {
+        "score": 5,
+        "explanation": "The image exhibits excellent visual cohesion and appeal, effectively communicating the intended message."
+      },
+      "9.2 Communication Effectiveness": {
+        "score": 5,
+        "explanation": "The image is highly effective in communicating the message of a sale on the man's collection."
+      }
+    }
+  },
+  "raw_response": "{\n  \"1. White Space Utilization\": {\n    \"1.1 Page Margin Assessment\": {\n      \"score\": 4,\n      \"explanation\": \"Margins are adequate and contribute to a balanced composition.\"\n    },\n    \"1.2 Element Spacing\": {\n      \"score\": 5,\n      \"explanation\": \"Elements are well-spaced, preventing overcrowding and enhancing readability.\"\n    }\n  },\n  \"2. Balance Assessment\": {\n    \"2.1 Spatial Balance\": {\n      \"score\": 5,\n      \"explanation\": \"The composition exhibits excellent spatial balance, with elements distributed harmoniously.\"\n    },\n    \"2.2 Size Hierarchy\": {\n      \"score\": 5,\n      \"explanation\": \"The size hierarchy is effectively implemented, guiding the viewer's eye and emphasizing key elements.\"\n    },\n    \"2.3 Typography Hierarchy\": {\n      \"score\": 5,\n      \"explanation\": \"The typography hierarchy is well-defined, with different font sizes and styles used to create visual interest and emphasize key messages.\"\n    }\n  },\n  \"3. Alignment\": {\n    \"3.1 Element Alignment\": {\n      \"score\": 4,\n      \"explanation\": \"Elements are generally well-aligned, contributing to a sense of order and visual harmony.\"\n    },\n    \"3.2 Text Alignment\": {\n      \"score\": 4,\n      \"explanation\": \"Text is aligned consistently, enhancing readability and visual appeal.\"\n    }\n  },\n  \"4. Typography Effectiveness\": {\n    \"4.1 Font Choice Appropriateness\": {\n      \"score\": 5,\n      \"explanation\": \"The font choice is appropriate for the brand and effectively communicates the intended message.\"\n    },\n    \"4.2 Text Formatting\": {\n      \"score\": 5,\n      \"explanation\": \"Text is formatted effectively, enhancing readability and visual appeal.\"\n    }\n  },\n  \"5. Color\": {\n    \"5.1 Color Scheme Cohesiveness\": {\n      \"score\": 5,\n      \"explanation\": \"The color scheme is cohesive and contributes to a sense of luxury and sophistication.\"\n    },\n    \"5.2 Color Contrast\": {\n      \"score\": 5,\n      \"explanation\": \"The color contrast is effective, ensuring that key elements are easily visible.\"\n    },\n    \"5.3 Color Application\": {\n      \"score\": 5,\n      \"explanation\": \"The colors are applied effectively, enhancing the overall visual appeal of the image.\"\n    }\n  },\n  \"6. Similarity & Consistency\": {\n    \"6.1 Consistency in Element Types\": {\n      \"score\": 5,\n      \"explanation\": \"There is a high degree of consistency in element types, contributing to a sense of visual harmony.\"\n    },\n    \"6.2 Related Groups\": {\n      \"score\": 5,\n      \"explanation\": \"Related groups of elements are visually connected, enhancing the overall communication of the image.\"\n    }\n  },\n  \"7. Information Flow & Emphasis\": {\n    \"7.1 Hierarchical Flow & Layout Logic\": {\n      \"score\": 5,\n      \"explanation\": \"The layout logic is well-defined, guiding the viewer's eye and emphasizing key messages.\"\n    },\n    \"7.2 Emphasis Techniques\": {\n      \"score\": 5,\n      \"explanation\": \"Emphasis techniques are used effectively to draw attention to key elements.\"\n    }\n  },\n  \"8. Brand Adherence\": {\n    \"8.1 Color Brand Alignment\": {\n      \"score\": 5,\n      \"explanation\": \"The colors are aligned with the brand identity, reinforcing brand recognition.\"\n    },\n    \"8.2 Typography Brand Alignment\": {\n      \"score\": 5,\n      \"explanation\": \"The typography is aligned with the brand identity, reinforcing brand recognition.\"\n    },\n    \"8.3 Visual Styling Brand Alignment\": {\n      \"score\": 5,\n      \"explanation\": \"The visual styling is aligned with the brand identity, reinforcing brand recognition.\"\n    }\n  },\n  \"9. Holistic Design Impact\": {\n    \"9.1 Visual Cohesion & Appeal\": {\n      \"score\": 5,\n      \"explanation\": \"The image exhibits excellent visual cohesion and appeal, effectively communicating the intended message.\"\n    },\n    \"9.2 Communication Effectiveness\": {\n      \"score\": 5,\n      \"explanation\": \"The image is highly effective in communicating the message of a sale on the man's collection.\"\n    }\n  }\n}"
+}
