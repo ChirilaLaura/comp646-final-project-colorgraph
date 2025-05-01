@@ -1,0 +1,26 @@
+{
+  "overall_mae": NaN,
+  "subcategory_mae": {
+    "pageMargin": NaN,
+    "elementSpacing": NaN,
+    "spatialBalance": NaN,
+    "sizeHierarchy": NaN,
+    "typographyHierarchy": NaN,
+    "elementAlignment": NaN,
+    "textAlignment": NaN,
+    "fontChoice": NaN,
+    "textFormatting": NaN,
+    "colorScheme": NaN,
+    "colorContrast": NaN,
+    "colorApplication": NaN,
+    "elementConsistency": NaN,
+    "relatedGroups": NaN,
+    "hierarchicalFlow": NaN,
+    "emphasisTechniques": NaN,
+    "colorBrand": NaN,
+    "typographyBrand": NaN,
+    "visualStyling": NaN,
+    "visualCohesion": NaN,
+    "communicationEffectiveness": NaN
+  }
+}
