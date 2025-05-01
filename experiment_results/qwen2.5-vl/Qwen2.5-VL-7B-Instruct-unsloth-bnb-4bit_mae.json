@@ -1,0 +1,26 @@
+{
+  "overall_mae": 1.0304761904761905,
+  "subcategory_mae": {
+    "pageMargin": 1.55,
+    "elementSpacing": 1.01,
+    "spatialBalance": 1.26,
+    "sizeHierarchy": 0.96,
+    "typographyHierarchy": 1.19,
+    "elementAlignment": 1.05,
+    "textAlignment": 1.11,
+    "fontChoice": 0.96,
+    "textFormatting": 1.07,
+    "colorScheme": 0.85,
+    "colorContrast": 1.18,
+    "colorApplication": 0.96,
+    "elementConsistency": 1.04,
+    "relatedGroups": 0.85,
+    "hierarchicalFlow": 1.01,
+    "emphasisTechniques": 1.0,
+    "colorBrand": 0.74,
+    "typographyBrand": 0.77,
+    "visualStyling": 0.78,
+    "visualCohesion": 1.07,
+    "communicationEffectiveness": 1.23
+  }
+}

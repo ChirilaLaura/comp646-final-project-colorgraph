@@ -1,0 +1,108 @@
+{
+  "success": true,
+  "evaluation": {
+    "1. White Space Utilization": {
+      "1.1 Page Margin Assessment": {
+        "score": 3,
+        "explanation": "There are some margins present, but they are inconsistent and do not provide enough breathing room around the content."
+      },
+      "1.2 Element Spacing": {
+        "score": 3,
+        "explanation": "The spacing between elements is generally adequate but there are some areas where it seems cramped, especially around the floating burger ingredients."
+      }
+    },
+    "2. Balance Assessment": {
+      "2.1 Spatial Balance": {
+        "score": 2,
+        "explanation": "The burger ingredients appear to be floating randomly, which creates an unbalanced look. The text '\u0411\u0443\u0440\u0433\u0435\u0440 \u043a\u0430\u043a \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e' is centered, but the floating elements lack a clear anchor point."
+      },
+      "2.2 Size Hierarchy": {
+        "score": 2,
+        "explanation": "The size hierarchy is somewhat inconsistent. The text '\u0411\u0443\u0440\u0433\u0435\u0440 \u043a\u0430\u043a \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e' is large and prominent, but the floating ingredients vary in size, which can be distracting."
+      },
+      "2.3 Typography Hierarchy": {
+        "score": 2,
+        "explanation": "The typography hierarchy is not very clear. The main title is large and bold, but the subtitle and additional text are smaller and less distinct."
+      }
+    },
+    "3. Alignment": {
+      "3.1 Element Alignment": {
+        "score": 2,
+        "explanation": "The alignment of the floating ingredients is inconsistent, which affects the overall balance of the design."
+      },
+      "3.2 Text Alignment": {
+        "score": 2,
+        "explanation": "The text alignment is inconsistent. The main title is centered, but the subtitle and additional text are left-aligned, which can be confusing."
+      }
+    },
+    "4. Typography Effectiveness": {
+      "4.1 Font Choice Appropriateness": {
+        "score": 3,
+        "explanation": "The font choice appears to be appropriate for the context, but the varying sizes and weights make it less effective."
+      },
+      "4.2 Text Formatting": {
+        "score": 3,
+        "explanation": "The text formatting is somewhat inconsistent. The main title is bold and large, but the subtitle and additional text are less distinct."
+      }
+    },
+    "5. Color": {
+      "5.1 Color Scheme Cohesiveness": {
+        "score": 3,
+        "explanation": "The color scheme is somewhat cohesive, but the use of black and white with red accents makes it visually striking but not entirely harmonious."
+      },
+      "5.2 Color Contrast": {
+        "score": 3,
+        "explanation": "The contrast between the white text and black background is high, making the text readable. However, the red accents need to be more balanced."
+      },
+      "5.3 Color Application": {
+        "score": 3,
+        "explanation": "The color application is somewhat effective, but the floating ingredients lack a consistent color scheme, which can be distracting."
+      }
+    },
+    "6. Similarity & Consistency": {
+      "6.1 Consistency in Element Types": {
+        "score": 2,
+        "explanation": "The floating ingredients lack consistent styling, which affects the overall consistency of the design."
+      },
+      "6.2 Related Groups": {
+        "score": 2,
+        "explanation": "The floating ingredients are not grouped cohesively, which makes it difficult to understand the intended relationship between them."
+      }
+    },
+    "7. Information Flow & Emphasis": {
+      "7.1 Hierarchical Flow & Layout Logic": {
+        "score": 2,
+        "explanation": "The layout is somewhat confusing due to the floating ingredients and inconsistent text alignment."
+      },
+      "7.2 Emphasis Techniques": {
+        "score": 2,
+        "explanation": "The emphasis techniques are not very effective. The floating ingredients are not clearly emphasized, and the text hierarchy is not clear."
+      }
+    },
+    "8. Brand Adherence": {
+      "8.1 Color Brand Alignment": {
+        "score": 3,
+        "explanation": "The color scheme is somewhat aligned with the brand, but the stark contrast might not be suitable for all brand contexts."
+      },
+      "8.2 Typography Brand Alignment": {
+        "score": 3,
+        "explanation": "The typography is somewhat aligned with the brand, but the varying font sizes and weights make it less effective."
+      },
+      "8.3 Visual Styling Brand Alignment": {
+        "score": 3,
+        "explanation": "The visual styling is somewhat aligned with the brand, but the floating ingredients lack a consistent visual style."
+      }
+    },
+    "9. Holistic Design Impact": {
+      "9.1 Visual Cohesion & Appeal": {
+        "score": 3,
+        "explanation": "The design has a certain appeal due to the dynamic floating ingredients, but the lack of cohesion and consistent styling detracts from its effectiveness."
+      },
+      "9.2 Communication Effectiveness": {
+        "score": 3,
+        "explanation": "The design communicates the concept of a burger being an art form, but the lack of clear hierarchy and consistent styling makes it less effective."
+      }
+    }
+  },
+  "raw_response": "```json\n{\n  \"1. White Space Utilization\": {\n    \"1.1 Page Margin Assessment\": {\n      \"score\": 3,\n      \"explanation\": \"There are some margins present, but they are inconsistent and do not provide enough breathing room around the content.\"\n    },\n    \"1.2 Element Spacing\": {\n      \"score\": 3,\n      \"explanation\": \"The spacing between elements is generally adequate but there are some areas where it seems cramped, especially around the floating burger ingredients.\"\n    }\n  },\n  \"2. Balance Assessment\": {\n    \"2.1 Spatial Balance\": {\n      \"score\": 2,\n      \"explanation\": \"The burger ingredients appear to be floating randomly, which creates an unbalanced look. The text '\u0411\u0443\u0440\u0433\u0435\u0440 \u043a\u0430\u043a \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e' is centered, but the floating elements lack a clear anchor point.\"\n    },\n    \"2.2 Size Hierarchy\": {\n      \"score\": 2,\n      \"explanation\": \"The size hierarchy is somewhat inconsistent. The text '\u0411\u0443\u0440\u0433\u0435\u0440 \u043a\u0430\u043a \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e' is large and prominent, but the floating ingredients vary in size, which can be distracting.\"\n    },\n    \"2.3 Typography Hierarchy\": {\n      \"score\": 2,\n      \"explanation\": \"The typography hierarchy is not very clear. The main title is large and bold, but the subtitle and additional text are smaller and less distinct.\"\n    }\n  },\n  \"3. Alignment\": {\n    \"3.1 Element Alignment\": {\n      \"score\": 2,\n      \"explanation\": \"The alignment of the floating ingredients is inconsistent, which affects the overall balance of the design.\"\n    },\n    \"3.2 Text Alignment\": {\n      \"score\": 2,\n      \"explanation\": \"The text alignment is inconsistent. The main title is centered, but the subtitle and additional text are left-aligned, which can be confusing.\"\n    }\n  },\n  \"4. Typography Effectiveness\": {\n    \"4.1 Font Choice Appropriateness\": {\n      \"score\": 3,\n      \"explanation\": \"The font choice appears to be appropriate for the context, but the varying sizes and weights make it less effective.\"\n    },\n    \"4.2 Text Formatting\": {\n      \"score\": 3,\n      \"explanation\": \"The text formatting is somewhat inconsistent. The main title is bold and large, but the subtitle and additional text are less distinct.\"\n    }\n  },\n  \"5. Color\": {\n    \"5.1 Color Scheme Cohesiveness\": {\n      \"score\": 3,\n      \"explanation\": \"The color scheme is somewhat cohesive, but the use of black and white with red accents makes it visually striking but not entirely harmonious.\"\n    },\n    \"5.2 Color Contrast\": {\n      \"score\": 3,\n      \"explanation\": \"The contrast between the white text and black background is high, making the text readable. However, the red accents need to be more balanced.\"\n    },\n    \"5.3 Color Application\": {\n      \"score\": 3,\n      \"explanation\": \"The color application is somewhat effective, but the floating ingredients lack a consistent color scheme, which can be distracting.\"\n    }\n  },\n  \"6. Similarity & Consistency\": {\n    \"6.1 Consistency in Element Types\": {\n      \"score\": 2,\n      \"explanation\": \"The floating ingredients lack consistent styling, which affects the overall consistency of the design.\"\n    },\n    \"6.2 Related Groups\": {\n      \"score\": 2,\n      \"explanation\": \"The floating ingredients are not grouped cohesively, which makes it difficult to understand the intended relationship between them.\"\n    }\n  },\n  \"7. Information Flow & Emphasis\": {\n    \"7.1 Hierarchical Flow & Layout Logic\": {\n      \"score\": 2,\n      \"explanation\": \"The layout is somewhat confusing due to the floating ingredients and inconsistent text alignment.\"\n    },\n    \"7.2 Emphasis Techniques\": {\n      \"score\": 2,\n      \"explanation\": \"The emphasis techniques are not very effective. The floating ingredients are not clearly emphasized, and the text hierarchy is not clear.\"\n    }\n  },\n  \"8. Brand Adherence\": {\n    \"8.1 Color Brand Alignment\": {\n      \"score\": 3,\n      \"explanation\": \"The color scheme is somewhat aligned with the brand, but the stark contrast might not be suitable for all brand contexts.\"\n    },\n    \"8.2 Typography Brand Alignment\": {\n      \"score\": 3,\n      \"explanation\": \"The typography is somewhat aligned with the brand, but the varying font sizes and weights make it less effective.\"\n    },\n    \"8.3 Visual Styling Brand Alignment\": {\n      \"score\": 3,\n      \"explanation\": \"The visual styling is somewhat aligned with the brand, but the floating ingredients lack a consistent visual style.\"\n    }\n  },\n  \"9. Holistic Design Impact\": {\n    \"9.1 Visual Cohesion & Appeal\": {\n      \"score\": 3,\n      \"explanation\": \"The design has a certain appeal due to the dynamic floating ingredients, but the lack of cohesion and consistent styling detracts from its effectiveness.\"\n    },\n    \"9.2 Communication Effectiveness\": {\n      \"score\": 3,\n      \"explanation\": \"The design communicates the concept of a burger being an art form, but the lack of clear hierarchy and consistent styling makes it less effective.\"\n    }\n  }\n}\n```"
+}
